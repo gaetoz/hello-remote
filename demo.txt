@@ -1,1 +1,3 @@
 Here's some text we are adding.
+
+Additionally, we can make change locally in the code editor. 
