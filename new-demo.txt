@@ -1,5 +1,6 @@
-new demo file exercising on:
+New demo file exercising on:
 
 -how to update files locally to push on remote server (GH)
 
 -how to update files on the remote server (GH) and fetch back on local computer
+
